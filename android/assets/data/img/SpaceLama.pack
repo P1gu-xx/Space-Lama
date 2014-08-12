@@ -1,0 +1,68 @@
+
+SpaceLama.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+SuperLama
+  rotate: false
+  xy: 1, 59
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+Retour
+  rotate: false
+  xy: 99, 78
+  size: 105, 45
+  orig: 105, 45
+  offset: 0, 0
+  index: -1
+utilisateur
+  rotate: false
+  xy: 1, 9
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+vaisseau
+  rotate: false
+  xy: 99, 12
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+pseudo
+  rotate: false
+  xy: 165, 44
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+buttonDown
+  rotate: false
+  xy: 51, 25
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+buttonUp
+  rotate: false
+  xy: 206, 91
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tir
+  rotate: false
+  xy: 1, 1
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+tir_lama
+  rotate: false
+  xy: 165, 36
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
